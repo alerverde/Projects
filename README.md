@@ -1,3 +1,3 @@
 # Projects
 
-Here are two projects involving data science and machine learning skills in Python.
+Here are three projects involving Data Acience and Machine Learning skills in Python and one in MySQL.
