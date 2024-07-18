@@ -28,7 +28,7 @@ Our goal is to predict the dynamic propensity (DP) at 210 K on a system of 10000
 
 As mentioned before, traditional machine learning algorithms are not capable of making good predictions of DP from initial structural parameters.
 
-![Results Graph](results/F1-Scores.png)
+![Results Graph](F1-Scores.png)
 
 ## Repository Structure
 
