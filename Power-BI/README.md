@@ -21,10 +21,10 @@ This Power BI report provides a 3-page sales dashboard for a fictional retail co
 - Complete Date Table created using [Devin Knight’s guide](https://www.sqlchick.com/entries/creating-a-date-dimension-table-in-power-bi)
 
 ## Preview
-![Overview Page](screenshots/overview_page.png)
+![Overview Page](/overview_page.png)
 
 ## The Star Schema
-![Overview Page](screenshots/star_schema.png)
+![Overview Page](/star_schema.png)
 
 ## DAX Measures
 
