@@ -24,7 +24,7 @@ This Power BI report provides a 3-page sales dashboard for a fictional retail co
 ![Overview Page](overview_page.png?raw=true "Overview Page")
 
 ## The Star Schema
-![Overview Page](/star_schema.png)
+![star schema](star_schema.png)
 
 ## DAX Measures
 
